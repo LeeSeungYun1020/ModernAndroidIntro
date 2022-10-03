@@ -10,3 +10,4 @@
 - [ViewBinding 기초](./class/03_ViewBinding%20기초.md)
 - [ViewModel과 Lifecycle 기초](./class/04_ViewModel과%20Lifecycle%20기초.md)
 - [LiveData와 Observer Pattern 기초](./class/05_LiveData와%20Observer%20Pattern%20기초.md)
+- [DataBinding 기초](./class/06_DataBinding%20기초.md)
