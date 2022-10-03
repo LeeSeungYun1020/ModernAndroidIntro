@@ -8,3 +8,4 @@
 
 ## Android Architecture Components 이론
 - [ViewBinding 기초](./class/03_ViewBinding%20기초.md)
+- [ViewModel과 Lifecycle 기초](./class/04_ViewModel과%20Lifecycle%20기초.md)
